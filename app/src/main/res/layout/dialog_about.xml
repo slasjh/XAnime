@@ -57,14 +57,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="[X开源精粹]，关注不迷路，让生活简单而精彩"
+        android:text="[X开源精粹]，关注回家不迷路，让生活简单而精彩"
         android:textIsSelectable="true"
         android:layout_marginTop="4dp"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="出自"
+        android:text="出处"
         android:textColor="@color/text_gray"
         />
 
